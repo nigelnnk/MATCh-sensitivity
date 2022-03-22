@@ -2,7 +2,7 @@
 This repo contains the implementation of my FYP project, mainly centered on the adaptation of the Molecule Attention Transformer ([ArXiv](https://arxiv.org/abs/2002.08264)) to energetic materials. This new model is named MATCh, representing the inclusion of partial charges of atoms for a more comprehensive molecule representation. 
 
 <p align='center'>
-<img src="MATCh_architecture_whiteback.png" alt="Modify image later" width="600"/>
+<img src="MATCh_architecture_whiteback.png" alt="Machine learning model architecture of MATCh" width="600"/>
 </p>
 
 ## Code
